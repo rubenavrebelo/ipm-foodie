@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rubenavrebelo/ipm-foodie/static/css/main.dfca195d.chunk.css",
+    "main.js": "/rubenavrebelo/ipm-foodie/static/js/main.e6fa3d4e.chunk.js",
+    "main.js.map": "/rubenavrebelo/ipm-foodie/static/js/main.e6fa3d4e.chunk.js.map",
+    "runtime-main.js": "/rubenavrebelo/ipm-foodie/static/js/runtime-main.fa4e4320.js",
+    "runtime-main.js.map": "/rubenavrebelo/ipm-foodie/static/js/runtime-main.fa4e4320.js.map",
+    "static/css/2.9522b9fe.chunk.css": "/rubenavrebelo/ipm-foodie/static/css/2.9522b9fe.chunk.css",
+    "static/js/2.59f14aaa.chunk.js": "/rubenavrebelo/ipm-foodie/static/js/2.59f14aaa.chunk.js",
+    "static/js/2.59f14aaa.chunk.js.map": "/rubenavrebelo/ipm-foodie/static/js/2.59f14aaa.chunk.js.map",
+    "index.html": "/rubenavrebelo/ipm-foodie/index.html",
+    "precache-manifest.24d938fbddce5c753e47f7354bc07120.js": "/rubenavrebelo/ipm-foodie/precache-manifest.24d938fbddce5c753e47f7354bc07120.js",
+    "service-worker.js": "/rubenavrebelo/ipm-foodie/service-worker.js",
+    "static/css/2.9522b9fe.chunk.css.map": "/rubenavrebelo/ipm-foodie/static/css/2.9522b9fe.chunk.css.map",
+    "static/css/main.dfca195d.chunk.css.map": "/rubenavrebelo/ipm-foodie/static/css/main.dfca195d.chunk.css.map",
+    "static/media/aboutapp.svg": "/rubenavrebelo/ipm-foodie/static/media/aboutapp.f05c5add.svg",
+    "static/media/chef.svg": "/rubenavrebelo/ipm-foodie/static/media/chef.cbdcbd50.svg",
+    "static/media/image1.png": "/rubenavrebelo/ipm-foodie/static/media/image1.f0b52bfd.png",
+    "static/media/image2.png": "/rubenavrebelo/ipm-foodie/static/media/image2.043d3152.png"
+  }
+}
