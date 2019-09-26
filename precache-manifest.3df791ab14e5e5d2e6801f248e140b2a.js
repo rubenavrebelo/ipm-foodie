@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4cba77f196e332f018b1ff25c7022c9",
+    "revision": "82e690f6af589bb08bf4f9d6c6e35664",
     "url": "/ipm-foodie/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ipm-foodie/static/css/2.9522b9fe.chunk.css"
   },
   {
-    "revision": "a1db1578c46b7c104aa2",
+    "revision": "92123371859f7656d686",
     "url": "/ipm-foodie/static/css/main.dfca195d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ipm-foodie/static/js/2.8aa60f20.chunk.js"
   },
   {
-    "revision": "a1db1578c46b7c104aa2",
-    "url": "/ipm-foodie/static/js/main.fa604b54.chunk.js"
+    "revision": "92123371859f7656d686",
+    "url": "/ipm-foodie/static/js/main.7ced7a3b.chunk.js"
   },
   {
     "revision": "8d1e6dffdb78071c5121",
