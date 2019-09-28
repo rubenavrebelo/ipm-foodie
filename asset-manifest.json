@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ipm-foodie/static/css/main.dfca195d.chunk.css",
-    "main.js": "/ipm-foodie/static/js/main.d62dbd89.chunk.js",
-    "main.js.map": "/ipm-foodie/static/js/main.d62dbd89.chunk.js.map",
+    "main.js": "/ipm-foodie/static/js/main.243a6e72.chunk.js",
+    "main.js.map": "/ipm-foodie/static/js/main.243a6e72.chunk.js.map",
     "runtime-main.js": "/ipm-foodie/static/js/runtime-main.62ff870d.js",
     "runtime-main.js.map": "/ipm-foodie/static/js/runtime-main.62ff870d.js.map",
     "static/css/2.9522b9fe.chunk.css": "/ipm-foodie/static/css/2.9522b9fe.chunk.css",
-    "static/js/2.681fe532.chunk.js": "/ipm-foodie/static/js/2.681fe532.chunk.js",
-    "static/js/2.681fe532.chunk.js.map": "/ipm-foodie/static/js/2.681fe532.chunk.js.map",
+    "static/js/2.b1a64810.chunk.js": "/ipm-foodie/static/js/2.b1a64810.chunk.js",
+    "static/js/2.b1a64810.chunk.js.map": "/ipm-foodie/static/js/2.b1a64810.chunk.js.map",
     "index.html": "/ipm-foodie/index.html",
-    "precache-manifest.d7dcf0b65170be5c3ef19db3d82c809c.js": "/ipm-foodie/precache-manifest.d7dcf0b65170be5c3ef19db3d82c809c.js",
+    "precache-manifest.37ee81948472314fc3b888fc023af619.js": "/ipm-foodie/precache-manifest.37ee81948472314fc3b888fc023af619.js",
     "service-worker.js": "/ipm-foodie/service-worker.js",
     "static/css/2.9522b9fe.chunk.css.map": "/ipm-foodie/static/css/2.9522b9fe.chunk.css.map",
     "static/css/main.dfca195d.chunk.css.map": "/ipm-foodie/static/css/main.dfca195d.chunk.css.map",
@@ -18,6 +18,8 @@
     "static/media/foodie.png": "/ipm-foodie/static/media/foodie.25cd53f8.png",
     "static/media/image1.png": "/ipm-foodie/static/media/image1.f0b52bfd.png",
     "static/media/image2.png": "/ipm-foodie/static/media/image2.043d3152.png",
-    "static/media/pencil.svg": "/ipm-foodie/static/media/pencil.3fff934a.svg"
+    "static/media/pencil.svg": "/ipm-foodie/static/media/pencil.3fff934a.svg",
+    "static/media/prototype.svg": "/ipm-foodie/static/media/prototype.5869eb4a.svg",
+    "static/media/wip.svg": "/ipm-foodie/static/media/wip.b357e5f7.svg"
   }
 }

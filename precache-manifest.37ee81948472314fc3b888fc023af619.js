@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23054fcc951e54fac26223c06a961718",
+    "revision": "4690d63310b832a3fa741a083307dbc9",
     "url": "/ipm-foodie/index.html"
   },
   {
-    "revision": "647661533d9a7b2d5c8f",
+    "revision": "8c595447d8cbba7581d9",
     "url": "/ipm-foodie/static/css/2.9522b9fe.chunk.css"
   },
   {
-    "revision": "e5749b826b59a715af47",
+    "revision": "eb84771098c9d7720fee",
     "url": "/ipm-foodie/static/css/main.dfca195d.chunk.css"
   },
   {
-    "revision": "647661533d9a7b2d5c8f",
-    "url": "/ipm-foodie/static/js/2.681fe532.chunk.js"
+    "revision": "8c595447d8cbba7581d9",
+    "url": "/ipm-foodie/static/js/2.b1a64810.chunk.js"
   },
   {
-    "revision": "e5749b826b59a715af47",
-    "url": "/ipm-foodie/static/js/main.d62dbd89.chunk.js"
+    "revision": "eb84771098c9d7720fee",
+    "url": "/ipm-foodie/static/js/main.243a6e72.chunk.js"
   },
   {
     "revision": "8d1e6dffdb78071c5121",
@@ -46,5 +46,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3fff934ad493382f89dbeba8ef3d27fd",
     "url": "/ipm-foodie/static/media/pencil.3fff934a.svg"
+  },
+  {
+    "revision": "5869eb4aa87b803ecf6902f48a0c3077",
+    "url": "/ipm-foodie/static/media/prototype.5869eb4a.svg"
+  },
+  {
+    "revision": "b357e5f78ee9c5b1fbf9c9f4e76c13c6",
+    "url": "/ipm-foodie/static/media/wip.b357e5f7.svg"
   }
 ]);
