@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb612faaa9cc26dd03d5562d54e51373",
+    "revision": "c03bc9c4f67af89323f5351a23975ab9",
     "url": "/ipm-foodie/index.html"
   },
   {
-    "revision": "614bafe7b0f7a4799d63",
+    "revision": "78efdbbf87a43e51cc14",
     "url": "/ipm-foodie/static/css/2.9522b9fe.chunk.css"
   },
   {
-    "revision": "36bf9a7abdecd01f0722",
+    "revision": "5974c96171f714855bab",
     "url": "/ipm-foodie/static/css/main.39121a37.chunk.css"
   },
   {
-    "revision": "614bafe7b0f7a4799d63",
-    "url": "/ipm-foodie/static/js/2.0ac4e057.chunk.js"
+    "revision": "78efdbbf87a43e51cc14",
+    "url": "/ipm-foodie/static/js/2.dcc6836e.chunk.js"
   },
   {
-    "revision": "36bf9a7abdecd01f0722",
-    "url": "/ipm-foodie/static/js/main.ea5d2b9d.chunk.js"
+    "revision": "5974c96171f714855bab",
+    "url": "/ipm-foodie/static/js/main.8fb46d11.chunk.js"
   },
   {
     "revision": "8d1e6dffdb78071c5121",
@@ -48,12 +48,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ipm-foodie/static/media/foodie.25cd53f8.png"
   },
   {
-    "revision": "f0b52bfd26d517e70cf7a8d91b2a462c",
-    "url": "/ipm-foodie/static/media/image1.f0b52bfd.png"
+    "revision": "c05792d1f16c333b3ee98d2db2114a88",
+    "url": "/ipm-foodie/static/media/logo2.c05792d1.jpg"
   },
   {
-    "revision": "043d31525b112f3688ad5bf32fd272c4",
-    "url": "/ipm-foodie/static/media/image2.043d3152.png"
+    "revision": "50eab0d13e04c431ceb91b2522de5495",
+    "url": "/ipm-foodie/static/media/logo3.50eab0d1.jpg"
+  },
+  {
+    "revision": "9d7df721b56702d5b05a2d997c00f579",
+    "url": "/ipm-foodie/static/media/logo4.9d7df721.jpg"
+  },
+  {
+    "revision": "0f7db22aafa9c27ac60904b9029d2c1f",
+    "url": "/ipm-foodie/static/media/logo5.0f7db22a.png"
+  },
+  {
+    "revision": "99b50ced923853c7034a0f2f3652320b",
+    "url": "/ipm-foodie/static/media/logo6.99b50ced.png"
+  },
+  {
+    "revision": "0bb3086610d5498dfc601bcd6823b625",
+    "url": "/ipm-foodie/static/media/logo7.0bb30866.png"
+  },
+  {
+    "revision": "6827d05387c572495cf0f56b61e4b8f9",
+    "url": "/ipm-foodie/static/media/logo8.6827d053.png"
+  },
+  {
+    "revision": "8838de695f3db680132d55a078567f9a",
+    "url": "/ipm-foodie/static/media/logo9.8838de69.png"
   },
   {
     "revision": "6704a3cbbfa14af304d51844fde37742",
