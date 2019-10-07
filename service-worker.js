@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ipm-foodie/precache-manifest.90cd46381762ed33c93615f7a4a038b0.js"
+  "/ipm-foodie/precache-manifest.9cf11821f086c3c659b85eb7aded42bb.js"
 );
 
 self.addEventListener('message', (event) => {
