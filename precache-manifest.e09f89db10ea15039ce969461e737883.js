@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "37bfb9c2624d4aa37d0c5c9d81d85b7a",
+    "revision": "8d464719f42ff8c520c0281ae4f4bfa6",
     "url": "/ipm-foodie/index.html"
   },
   {
-    "revision": "a6b2b25f2f6fab86b376",
+    "revision": "86788e7089bc4092683f",
     "url": "/ipm-foodie/static/css/2.9522b9fe.chunk.css"
   },
   {
-    "revision": "425d99667117b27781ad",
+    "revision": "cc64758d5757cc882f2f",
     "url": "/ipm-foodie/static/css/main.39121a37.chunk.css"
   },
   {
-    "revision": "a6b2b25f2f6fab86b376",
-    "url": "/ipm-foodie/static/js/2.ba77bc57.chunk.js"
+    "revision": "86788e7089bc4092683f",
+    "url": "/ipm-foodie/static/js/2.7047e614.chunk.js"
   },
   {
-    "revision": "425d99667117b27781ad",
-    "url": "/ipm-foodie/static/js/main.9d310dff.chunk.js"
+    "revision": "cc64758d5757cc882f2f",
+    "url": "/ipm-foodie/static/js/main.3a44d9d1.chunk.js"
   },
   {
     "revision": "8d1e6dffdb78071c5121",
     "url": "/ipm-foodie/static/js/runtime-main.62ff870d.js"
+  },
+  {
+    "revision": "3171c75e9bcef371c8172171df1638b3",
+    "url": "/ipm-foodie/static/media/Assignment-1.3171c75e.pdf"
   },
   {
     "revision": "3150de5c4d1c15a20978945001a74ced",
