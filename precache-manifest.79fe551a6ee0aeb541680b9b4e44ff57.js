@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89165ddcfb30ca367466a3fb2a5e09e6",
+    "revision": "a1d7ffaddc7482f1d28d73726b1f4dc9",
     "url": "/ipm-foodie/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ipm-foodie/static/css/2.9522b9fe.chunk.css"
   },
   {
-    "revision": "4af7bf99ae606158aecc",
+    "revision": "c284ce69ee1644c72fa7",
     "url": "/ipm-foodie/static/css/main.39121a37.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ipm-foodie/static/js/2.e2ea7e65.chunk.js"
   },
   {
-    "revision": "4af7bf99ae606158aecc",
-    "url": "/ipm-foodie/static/js/main.f9788596.chunk.js"
+    "revision": "c284ce69ee1644c72fa7",
+    "url": "/ipm-foodie/static/js/main.6fda0c88.chunk.js"
   },
   {
     "revision": "8d1e6dffdb78071c5121",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ipm-foodie/static/media/Good-and-bad-design.0a08fe6b.pdf"
   },
   {
-    "revision": "515c0251b06b29137dc1934b105dc176",
-    "url": "/ipm-foodie/static/media/GoodUIBadDesign.515c0251.pdf"
+    "revision": "77a26a235e1405e2b03fc338972706f7",
+    "url": "/ipm-foodie/static/media/GoodUIBadDesign.77a26a23.pdf"
   },
   {
     "revision": "3150de5c4d1c15a20978945001a74ced",
